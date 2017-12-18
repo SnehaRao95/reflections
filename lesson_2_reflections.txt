@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+it will be initialized as agit repository.There will be zero commits.Git does not automatically make commits because we cant give our own commit messages if git does the commit for us.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is used to specify exactly what changes to be committed. It helps in making the commits small(i.e. one commit per logical change).
