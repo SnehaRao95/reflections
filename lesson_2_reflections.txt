@@ -10,3 +10,6 @@ branches would help if we are making an experimental change and want to keep it 
 
 How do the diagrams help you visualize the branch structure?
 It gives a clear picture of what commits were made before and after the branch was created.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+it helps resolve conflicts in the code-in case of manual merging
