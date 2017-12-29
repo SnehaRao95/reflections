@@ -3,3 +3,8 @@ When we want to collaborate on a project with multiple people.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Coz you might want to pull the changed file after you have finished working on a certain logic part .Automatic updating might result in too many unwanted pulls.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks:cloning a github repo into another github repo
+clones:creating a copy of a repo from local to local ot github to local
+branches:creating a new path in the same repo
